@@ -1,7 +1,7 @@
 
 # Cybrary - A Repository for Cybersecurity and Penetration Testing Resources
 
-Welcome to **Cybrary**, a centralized repository designed to house valuable resources for cybersecurity enthusiasts, professionals, and penetration testers. This repository is intended to be a one-stop shop for tools, tutorials, scripts, and recommended reading materials to help you excel in the field of cybersecurity.
+Welcome to my **Cybrary**, a centralized repository designed to house valuable resources for cybersecurity enthusiasts, professionals, and penetration testers. This repository is intended to be a one-stop shop for tools, tutorials, scripts, and recommended reading materials to help you excel in the field of cybersecurity.
 
 ## Repository Structure
 
